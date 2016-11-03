@@ -1,0 +1,8 @@
+Que comando será executado, cmd1 seguido por cmd2, independentemente do status de saída cmd1?
+
+    1. cmd1 && cmd2
+    2. cmd1 | cmd2
+    3. cmd1 ; cmd2
+    4. cmd1 || cmd2
+    5. cmd1 cmd2
+

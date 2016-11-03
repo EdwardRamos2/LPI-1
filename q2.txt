@@ -1,0 +1,9 @@
+ 7. Pergunta 2 pontos
+
+Qual arquivo é lido pelo programa ldconfig ?
+
+    1. /etc/ld.so.conf
+    2. /etc/ld.so.cache
+    3. /etc/modules.conf
+    4. /lib/ld.so
+

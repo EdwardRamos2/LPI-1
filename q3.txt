@@ -1,0 +1,12 @@
+ 8. Pergunta 2 pontos
+
+Depois de um incidente de segurança, o administrador deve verificar determinado RPM instalado. 
+Qual comando irá criar um relatório completo, que você pode analisar as mudanças relacionados com a segurança?
+
+    1. rpm -Qavy >report
+    2. rpm -Va >report
+    3. rpm -Vqt --nomd5 >report
+    4. rpm --checkfiles >report
+    5. rpm -Va --nofiles >report
+
+
